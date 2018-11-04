@@ -1,0 +1,36 @@
+body {
+    background-image: url(images/background.jpg); 
+    background-color: black; 
+    font-size: 30px;
+}
+p {
+	color: white;
+	font-size: 18px;
+}
+ol{
+	color: white;
+}
+ul{
+	color: white;
+}
+span{
+	color: red; 
+	font-size: 2em;
+}
+h1{
+	color: red; 
+	font-size: 3em;
+}
+h2{
+	color: brown; 
+	font-size: 2em;
+}
+td{
+	color: white;
+}
+.text{
+	background: rgba(0, 0, 0, 0.85);
+}
+.frame{
+	background: rgba(0, 0, 0, 0.5);
+}
